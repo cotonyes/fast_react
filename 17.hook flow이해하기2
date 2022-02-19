@@ -1,0 +1,3 @@
+useEffect: render끝날시 실행 children이 먼저 실행된다, useState와 render가 끝나고 실행된다
+upDate: useEffect의 clean up이 먼저 진행되고, useEffect가 실행된다. 부모 먼저 클린 업 하고, children이 클린 업 된다
+defendency array: 전달받은 값의 변화가 있는 경우
