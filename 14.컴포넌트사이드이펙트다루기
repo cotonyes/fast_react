@@ -1,0 +1,9 @@
+useEffect
+
+사이드 이펙트 = 부작용
+원하지 않는 효과 vs 부수효과
+
+useState: lazy initialize
+useEffect: dependency array
+
+useEffect: 컴포넌트가 렌더링 될 때마다 특정 작업을 실행할 수 있게 한다.
