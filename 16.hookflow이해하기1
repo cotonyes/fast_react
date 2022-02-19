@@ -1,0 +1,6 @@
+App - Child
+
+훅의 호출 타이밍
+
+hook => hook들의 호출 타이밍
+useState => setState시 prev가 주입된다
