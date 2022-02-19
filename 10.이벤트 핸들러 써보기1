@@ -1,0 +1,5 @@
+addEventListener
+onClick....
+
+바닐라js: on{event}/addEventListener
+리액트js: on{Event}
